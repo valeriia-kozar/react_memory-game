@@ -1,7 +1,7 @@
 .card__item {
     width: clamp(50px, 100%, 150px) ;
     aspect-ratio: 1/1;
-    background-color: bisque;
+    background-color: #FFCF7F;
     border-radius: 10px;
     margin: 0 auto;
     display: flex;
