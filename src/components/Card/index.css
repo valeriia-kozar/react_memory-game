@@ -1,0 +1,12 @@
+.card__item {
+    width: clamp(50px, 100%, 150px) ;
+    aspect-ratio: 1/1;
+    background-color: bisque;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    cursor: pointer;
+}

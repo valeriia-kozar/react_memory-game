@@ -1,0 +1,11 @@
+.grid__wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    width: clamp(100px, 100%, 640px) ;
+    aspect-ratio: 1/1;
+    margin: 0 auto;
+    
+}
